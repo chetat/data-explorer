@@ -1,4 +1,4 @@
-FROM apache/superset:latest
+FROM apache/superset:2.1.0-dev
 USER root
 
 RUN apt-get update && \
@@ -6,7 +6,6 @@ RUN apt-get update && \
 
 RUN apt-get install -y wget && \
     rm -rf /var/lib/apt/lists/*
-
 ENV GECKODRIVER_VERSION=0.29.0
 RUN wget -q https://github.com/mozilla/geckodriver/releases/download/v${GECKODRIVER_VERSION}/geckodriver-v${GECKODRIVER_VERSION}-linux64.tar.gz && \
     tar -x geckodriver -zf geckodriver-v${GECKODRIVER_VERSION}-linux64.tar.gz -O > /usr/bin/geckodriver && \
