@@ -3092,7 +3092,7 @@
       ],
       "Position of column level subtotal": ["Položaj vsot na nivoju stolpcev"],
       "Position of row level subtotal": ["Položaj vsot na nivoju vrstic"],
-      "Powered by Apache Superset": ["Omogoča Apache Superset"],
+      "": ["Omogoča Apache Superset"],
       "Pre-filter": ["Predfilter"],
       "Pre-filter available values": ["Predfiltriraj razpoložljive vrednosti"],
       "Pre-filter is required": ["Zahtevan je predfilter"],

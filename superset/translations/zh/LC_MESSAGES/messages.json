@@ -2494,7 +2494,7 @@
       "Position of child node label on tree": ["子节点标签在树上的位置"],
       "Position of column level subtotal": ["列级小计的位置"],
       "Position of row level subtotal": ["行级小计的位置"],
-      "Powered by Apache Superset": ["由Apache Superset提供支持"],
+      "": ["由Apache Superset提供支持"],
       "Pre-filter": ["预过滤"],
       "Pre-filter available values": ["预滤器可用值"],
       "Pre-filter is required": ["预过滤是必须的"],

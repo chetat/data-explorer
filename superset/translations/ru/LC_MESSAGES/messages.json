@@ -3341,7 +3341,7 @@
       "Position of row level subtotal": [
         "Расположение промежуточного итога на уровне строки"
       ],
-      "Powered by Apache Superset": ["На базе Apache Superset"],
+      "": ["На базе Apache Superset"],
       "Pre-filter": ["Предварительная фильтрация"],
       "Pre-filter available values": [
         "Предварительно выбрать доступные значения для фильтра"

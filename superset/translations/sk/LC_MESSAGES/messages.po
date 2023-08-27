@@ -11085,7 +11085,7 @@ msgid "Position of row level subtotal"
 msgstr ""
 
 #: superset-frontend/src/features/home/RightMenu.tsx:496
-msgid "Powered by Apache Superset"
+msgid ""
 msgstr ""
 
 #: superset-frontend/src/dashboard/components/nativeFilters/FiltersConfigModal/FiltersConfigForm/FiltersConfigForm.tsx:1000

@@ -11609,7 +11609,7 @@ msgid "Position of row level subtotal"
 msgstr "Расположение промежуточного итога на уровне строки"
 
 #: superset-frontend/src/features/home/RightMenu.tsx:496
-msgid "Powered by Apache Superset"
+msgid ""
 msgstr "На базе Apache Superset"
 
 #: superset-frontend/src/dashboard/components/nativeFilters/FiltersConfigModal/FiltersConfigForm/FiltersConfigForm.tsx:1000

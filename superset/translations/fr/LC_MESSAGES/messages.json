@@ -2547,7 +2547,7 @@
       "Position of column level subtotal": [""],
       "Position of intermediate node label on tree": [""],
       "Position of row level subtotal": [""],
-      "Powered by Apache Superset": ["Propulsé par Apache Superset"],
+      "": ["Propulsé par Apache Superset"],
       "Pre-filter": ["Pre-filtre"],
       "Pre-filter available values": ["Valeurs de pre-filtre disponibles"],
       "Pre-filter is required": ["Un pré-filtre est obligatoire"],

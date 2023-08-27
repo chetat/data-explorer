@@ -11793,7 +11793,7 @@ msgid "Position of row level subtotal"
 msgstr "Položaj vsot na nivoju vrstic"
 
 #: superset-frontend/src/features/home/RightMenu.tsx:496
-msgid "Powered by Apache Superset"
+msgid ""
 msgstr "Omogoča Apache Superset"
 
 #: superset-frontend/src/dashboard/components/nativeFilters/FiltersConfigModal/FiltersConfigForm/FiltersConfigForm.tsx:1000

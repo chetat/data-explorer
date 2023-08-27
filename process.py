@@ -1,0 +1,1 @@
+awsathena+rest://AKIAU5VEJQULZL2XTK7L:65Z/VolXl9dzCqQsJcNfvxN3+Jf9tt+i2FCVdotB@athena.us-east-1.amazonaws.com/flights?s3_staging_dir=data-explorer-y

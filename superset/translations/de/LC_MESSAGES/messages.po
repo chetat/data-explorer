@@ -11775,7 +11775,7 @@ msgid "Position of row level subtotal"
 msgstr "Position der Zwischensumme auf Zeilenebene"
 
 #: superset-frontend/src/features/home/RightMenu.tsx:496
-msgid "Powered by Apache Superset"
+msgid ""
 msgstr "Powered Apache Superset"
 
 #: superset-frontend/src/dashboard/components/nativeFilters/FiltersConfigModal/FiltersConfigForm/FiltersConfigForm.tsx:1000

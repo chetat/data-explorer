@@ -3660,7 +3660,7 @@
       "Position of row level subtotal": [
         "Position der Zwischensumme auf Zeilenebene"
       ],
-      "Powered by Apache Superset": ["Powered Apache Superset"],
+      "": ["Powered Apache Superset"],
       "Pre-filter": ["Vorfilter"],
       "Pre-filter available values": ["Verfügbare Werte vorfiltern"],
       "Pre-filter is required": ["Vorfilterung erforderlich"],

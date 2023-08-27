@@ -3465,7 +3465,7 @@
       "Position of row level subtotal": [
         "Posição do subtotal ao nível da linha"
       ],
-      "Powered by Apache Superset": ["Feito por Apache Superset"],
+      "": ["Feito por Apache Superset"],
       "Pre-filter available values": ["Valores disponíveis para o pré-filtro"],
       "Pre-filter is required": ["É necessário um pré-filtro"],
       "Predicate applied when fetching distinct value to populate the filter control component. Supports jinja template syntax. Applies only when `Enable Filter Select` is on.": [
